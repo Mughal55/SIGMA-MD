@@ -61,8 +61,8 @@
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "value": "923466319114"
     },
-    "SESSION_ID": {
-      "description": "03_08_2024_SIGMA_MD_TuPqisEq_MAHER_ZUBAIR"
+    "SESSION_ID": {03_08_2024_SIGMA_MD_TuPqisEq_MAHER_ZUBAIR
+      "description": ""
     },
     "OPENAI_API_KEY": {
       "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
@@ -70,8 +70,8 @@
       "required": false
     },
     "MONGODB_URI": {
-      "description": "mongodb+srv://ismailamir4897:<CHKFhkLBbuHUnq7V>@cluster0.xxkwj2r.mongodb.net/",
-      "value": ""
+      "description": "",
+      "value": "mongodb+srv://ismailamir4897:<CHKFhkLBbuHUnq7V>@cluster0.xxkwj2r.mongodb.net/"
     },
     "WORKTYPE": {
       "description": "Worktype of your bot. if it is private then only bot owner can use it. If public then everyone can use it.",
